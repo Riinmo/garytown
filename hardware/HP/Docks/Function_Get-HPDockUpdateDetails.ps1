@@ -222,10 +222,10 @@ function Get-HPDockUpdateDetails {
         $Url_TBG2 = 'https://ftp.hp.com/pub/softpaq/sp153501-154000/sp153722.exe'   #  1.0.71.1 RevD | July 29, 2024
             
         #USB-C Dock G5
-        $Url_UsbG5 = 'https://ftp.hp.com/pub/softpaq/sp156001-156500/sp156379.exe'  #  1.0.23.0 Rev.B | Dec 17, 2024
+        $Url_UsbG5 = 'https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161510.exe'  #  1.0.23.0 Rev.B | Dec 17, 2024
             
         #USB-C Universal Dock G2
-        $Url_UniG2 = 'https://ftp.hp.com/pub/softpaq/sp156001-156500/sp156380.exe'  #  1.1.23.0 Rev.B | Dec 17, 2024
+        $Url_UniG2 = 'https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161512.exe'  #  1.1.23.0 Rev.B | Dec 17, 2024
             
         #USB-C Dock G4
         $Url_UsbG4 = 'https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88999.exe'     #  F.37 | Jul 15, 2018
